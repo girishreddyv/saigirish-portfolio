@@ -1,0 +1,23 @@
+.next/
+node_modules/
+out/
+dist/
+coverage/
+.env
+.env*.local
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tsbuildinfo
+dev-server*.log
+vercel.json
+
+# Local/private working files not needed in the public portfolio repo
+/SaiGirish Resume.docx
+/SaiGirish Resume.pdf
+/SaiGirish_Job_Tracker.xlsx
+/JOB_SEARCH_RULES.md
+/apply_helper.py
+/image.jpeg
